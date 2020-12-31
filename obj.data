@@ -1,5 +1,5 @@
 classes = 3
-train  = custom_data/train.txt
-valid  = custom_data/test.txt
-names  = custom_data/obj.names
+train  = Data_transfer/train.txt
+valid  = Data_transfer/test.txt
+names  = Data_transfer/obj.names
 backup = backup/
